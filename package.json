@@ -4,11 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "electron ."
+    "start": "node ."
   },
-  "author": "Vaibhav Kaushik",
-  "license": "MIT",
+  "author": "Akshay Kumar & Vaibhav Kaushik",
+  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
