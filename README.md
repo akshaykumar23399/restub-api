@@ -16,7 +16,7 @@ To update the user use the URL https://0.0.0.0:3000/api/contacts/Contact_ID with
 To delete the user use the URL https://0.0.0.0:3000/api/contacts/Contact_ID with DELETE method.
 
 ## How to setup
-####First you need to install mongoDB from there official site https://www.mongodb.com/
+#### First you need to install mongoDB from there official site https://www.mongodb.com/
 
 OR using chocolatey:
 
@@ -31,7 +31,7 @@ OR using Homebrew:
 brew update
 brew install mongodb
 ```
-####After installing mongoDB you have to install all dependencies needed by NodeJS using following command:
+#### After installing mongoDB you have to install all dependencies needed by NodeJS using following command:
 ```bash
 npm install
 ```
